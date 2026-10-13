@@ -1,0 +1,478 @@
+﻿  estudiante.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(203,9): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(975,6): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(983,6): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypesbase.h(453,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypesbase.h(478,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypesbase.h(495,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(85,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(94,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(100,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(106,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(112,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(118,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(493,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidlbase.h(2331,74): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidlbase.h(2345,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidlbase.h(9143,74): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidlbase.h(9159,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(11095,64): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(11653,72): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(11685,72): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(12193,74): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(12208,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(12669,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(14483,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(14498,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16237,74): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16253,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16400,72): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16439,72): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16456,74): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16473,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16718,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16737,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\oaidl.h(571,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "estudiante.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(203,9): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(975,6): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(983,6): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypesbase.h(453,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypesbase.h(478,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypesbase.h(495,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(85,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(94,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(100,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(106,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(112,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(118,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.h(493,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidlbase.h(2331,74): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidlbase.h(2345,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidlbase.h(9143,74): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidlbase.h(9159,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(11095,64): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(11653,72): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(11685,72): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(12193,74): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(12208,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(12669,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(14483,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(14498,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16237,74): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16253,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16400,72): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16439,72): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16456,74): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16473,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16718,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.h(16737,57): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\oaidl.h(571,21): error C2872: 'byte': símbolo ambiguo
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\rpcndr.h(202,23):
+      puede ser 'unsigned char byte'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cstddef(34,24):
+      o       'std::byte'
+  
